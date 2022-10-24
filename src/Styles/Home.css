@@ -1,4 +1,4 @@
-h1{
+/* h1{
     text-align: center;
     color: rgb(9, 10, 9);
     
@@ -48,4 +48,204 @@ img{
 }
 li{
     font-weight: bolder;
+} */
+.carousel{
+    margin-top: 82px;
+}
+/* .carousel img{
+
+} */
+.investtext{
+    color:white;
+    background-color: #dc6226 ;
+    text-align: center;
+    margin-left:140px ;
+    padding: 10px;
+    width: 600px;
+   
+    line-height: 37px;
+}
+.investtext h3{
+    font-size: 36px;
+
+
+}
+.ourfocus{
+    padding: 40px;
+    text-align: center;
+}
+.focuscard{
+    border: 2px solid white;
+}
+.row{
+    margin-top: 40px;
+}
+.focusimg{
+    margin-left: 115px;
+ 
+}
+
+.focusbtn:hover{
+    color:#dc6226;
+    border:1px solid #dc6226;
+    
+}
+.focusbtn{
+    background-color: none;
+    background: none;
+    border:1px solid black;
+    padding: 5px;
+  
+}
+.investcard{
+    text-align: center;
+    border:none;
+    box-shadow:0 4px 40px rgba(0,0,0,0.12),0 2px 2px rgba(0,0,0,0.12),0 4px 4px rgba(0,0,0,0.12),0 8px 8px rgba(0,0,0,0.12),0 16px 16px rgba(0,0,0,0.12);
+}
+.investbtn{
+    background-color: none;
+    background: none;
+    border:1px solid black;
+    border: none;
+    padding: 5px;
+  
+}
+.investbtn:hover{
+    color:#dc6226;
+
+}
+.investdetails{
+    height: 700px;
+    background-color: #e9eef2;
+}
+.head{
+    margin-top: 40px;
+}
+/* .twoparts{
+    height: 700px;
+ 
+   background-color: #dc6226;
+}
+.parttwo{
+    background-color: #dc6226;
+    height: 700px;
+    width: 500px;
+} */
+
+ul.custom-list {
+    list-style: none;
+    margin-left: 200px;
+    font-size: 20px;
+    color: white;
+    padding-left: 18px;
+    cursor: pointer;
+    text-align: left;
+    font-weight: 400;
+    padding-left: 0;
+    line-height: 2.5rem;
+   
+  }
+  ul.custom-list li:hover {
+    color: black;
+
+   
+  }
+  ul.custom-list1 li:hover {
+    color:#dc6226 ;
+
+   
+  }
+  .parasol:hover{
+    color:#dc6226 ;
+  }
+  
+  ul.custom-list li {
+    text-align: left;
+ 
+      padding-left: 20px;
+      text-indent: -22px;
+      margin-left: 17px;
+  }
+  
+  ul.custom-list li:before {
+    content: "⚙️";
+    padding-right: 5px;
+  }
+  ul.custom-list1 {
+    list-style: none;
+    margin-left: 40px;
+    font-size: 18px;
+    color:#989d9b;
+    padding-left: 20px;
+    text-align: left;
+    font-weight: 400;
+    padding-left: 0;
+    line-height: 2.5rem;
+   
+  }
+  
+  ul.custom-list1 li {
+    text-align: left;
+ 
+      padding-left: 20px;
+      text-indent: -22px;
+      margin-left: 17px;
+  }
+  
+  ul.custom-list1 li:before {
+    content: "⚙️";
+    padding-right: 5px;
+  }
+  .solutionbtn{
+    background-color: none;
+    background: none;
+    margin-left: 60px;
+    color: white;
+    border:2px solid white;
+
+    padding: 5px;
+  
+}
+.solutionbtn:hover{
+    color:#989d9b;
+    border:2px solid #989d9b;;
+
+}
+.solution1btn{
+    background-color: none;
+    background: none;
+    margin-left: 220px;
+    color: white;
+    border:2px solid white;
+
+    padding: 5px;
+  
+}
+.solution1btn:hover{
+    color:#3f494e ;
+    border:2px solid #3f494e ;;
+
+}
+.productname{
+    margin-left: 60px;
+    margin-right: 60px;
+    padding: 5px;
+    margin-top: 40px;
+    margin-bottom: 20px;
+}
+.slick-next:before, .slick-prev:before{
+ color: black !important;
+}
+
+.carddetails{
+    
+    
+        height: 1200px;
+        background-color: #e9eef2;
+
+}
+.detcard{
+    text-align: center;
+    border:none;
+    box-shadow:0 4px 40px rgba(0,0,0,0.12),0 2px 2px rgba(0,0,0,0.12),0 4px 4px rgba(0,0,0,0.12),0 8px 8px rgba(0,0,0,0.12),0 16px 16px rgba(0,0,0,0.12);
 }

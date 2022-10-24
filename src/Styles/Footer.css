@@ -1,0 +1,105 @@
+
+.reachus{
+    height: 270px;
+    padding-left: 23px;
+    background-color: #505a62;
+}
+
+.reachus1 ,.reachus2, .reachus3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 250px;
+}
+
+.fa-map-marker,.fa-envelope,.fa-phone{
+    font-size: 30px;
+    color: #ffffff;
+    text-align: center;
+    background: #dc6226;
+    padding-top: 20px;
+    width: 86px;
+    height: 86px;
+    border-radius: 50%;
+    line-height: 70px;
+    margin-top: 20px;
+    display: inline-block;
+    border: 8px solid #6d717c;
+    vertical-align: middle;
+}
+
+.fa-map-marker:hover,.fa-envelope:hover,.fa-phone:hover{
+    color: white;
+}
+
+.address{
+    font-size: 18px;
+    padding-left: 12px;
+    margin-left: 40px;
+    color: white;
+    font-weight: 600;
+    margin-bottom: 0;
+}
+footer{
+    text-decoration: none;
+    height: 400px;
+    background: #3e4952;
+    background-image: url("https://livedemo00.template-help.com/wt_55458/images/pattern-gray.jpg");
+    background-position: 100% 100%;
+    background-repeat: repeat;
+    color: #ffffff;
+    vertical-align: bottom;
+    padding-bottom: 207px;
+    padding-top: 55px;
+}
+
+
+
+.footerfont{
+    font-weight: 700;
+}
+
+.smallfont{
+    font-size: 12px;
+    margin-left: 90px;
+
+}
+
+.icon{
+    color: #dc6226;
+    font-size: 28px;
+}
+
+.icon:hover{
+    color: grey;
+}
+.iconlist li{
+    text-decoration: none;
+}
+.iconlist ul{
+    text-decoration: none;
+}
+
+.iconlist {
+    text-decoration: none;
+    display: flex;
+    justify-content: space-between;
+    width: 40%;
+    padding: 0;
+    margin-top: 25px;
+}
+
+iframe{
+    width: 85vh;
+    height: 150px;
+} 
+ul{
+    list-style-type: none;  
+    text-decoration: none;
+}
+li{
+    list-style-type: none;  
+    text-decoration: none;
+
+}
+a{text-decoration: none;}

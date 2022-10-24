@@ -1,0 +1,46 @@
+.logo{
+    width: 300px;
+    height: 90px;
+   background-color:  #dc6226;
+   margin-left: 0px;
+}
+
+.navbar-custom{
+    background-color: #3f494e;
+    color: white;
+}
+.brand{
+    margin-left: 20px;
+    font-size: 45px;
+    font-weight: 700;
+    color: white;
+}
+.subbrand{
+    margin-top: -20px;
+    margin-left: 80px;
+    font-size: 15px;
+    font-weight: 700;
+    color: white;
+}
+.back{
+    color: white;
+    font-weight: 600;
+}
+.back:hover{
+    font-weight: 600;
+    color: #dc6226!important ;
+}
+.icon{
+    color:  grey;
+    font-size: 24px;
+    
+    padding: 8px;
+}
+
+.icon:hover{
+    color: #dc6226!important;
+}
+.icontop{
+    display: flex;
+    padding-left: 60px;
+}
